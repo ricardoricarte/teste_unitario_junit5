@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://dicasdejava.com.br/images/logo-junit.png" width="50%">
+  <img src="https://dicasdejava.com.br/images/logo-junit.png" width="30%">
   <h1 style="border-bottom:none">Junit 5</h1>
   <p>Author: José Ricardo</p>
   
